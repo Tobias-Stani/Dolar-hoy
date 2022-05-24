@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://wallpapershome.com/images/wallpapers/macos-big-sur-1280x720-dark-wwdc-2020-22655.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.layout {
+    width: 100%;
+  
+    display: flex;
+    flex-direction: column;
+    gap: 16%;
+    flex-wrap: wrap;
+  
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .card-header-first{
+      margin-top: -40px;
+      height: 60px;
+      background: linear-gradient(-98deg, #BF019F, #F28A57);
+      box-shadow: 1px 5px 15px #a2a2a2;
+  }
+
+  .titulo{
+      color: #fff;
+  }
+
+  .titulo-p{
+      color: #fff;
+  }
